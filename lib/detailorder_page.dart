@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:navigation/home_page.dart';
 
 class DetailOrderPage extends StatelessWidget {
   final String makanan;
