@@ -1,16 +1,32 @@
-# navigation
+<h1 align="left">𝙸 𝚌0𝚍𝙴 𝚠𝙸𝚝𝙷</h1>
 
-A new Flutter project.
+###
 
-## Getting Started
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
 
-This project is a starting point for a Flutter application.
+###
 
-A few resources to get you started if this is your first Flutter project:
+<p align="left">𝚁𝚎𝚜𝚞𝚕𝚝:</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot 2025-04-25 005308](https://github.com/user-attachments/assets/68886e19-fbf3-4519-a189-e71fd441c482)
+
+
+![Screenshot 2025-04-25 005545](https://github.com/user-attachments/assets/cce5a386-6b9b-414f-8607-4ce92431aa24)
+
+
+![Screenshot 2025-04-25 005637](https://github.com/user-attachments/assets/dead5a13-2f75-4c45-a932-5beb24142229)
+
+
+![Screenshot 2025-04-25 005646](https://github.com/user-attachments/assets/d1430d31-9d29-4124-866e-8167bf4a9a24)
+
+
+![Screenshot 2025-04-25 005714](https://github.com/user-attachments/assets/9343ccf5-3606-43cd-a895-bd88e6b84910)
